@@ -77,5 +77,6 @@ It is reccomended to use the output image for detecting blunders
 ![image](https://user-images.githubusercontent.com/60162470/138389077-44635185-c5ad-46cd-a514-a827378889be.png)
 
 ## Thanks!
+## -Jan Erik
 
 
